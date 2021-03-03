@@ -7,3 +7,5 @@ Máquina Virtual - Windows - Sistema ERP Enteprise Suite da FBS - https://drive.
 
 o Winrar para descompactar o instalador se encontra disponível aqui no meu repositório. Instale o Winrar e depois descompacte o arquivo que baixou 
 do link acima.
+
+Link para visualizar como mudar   a BIOS  para  virtualização https://www.youtube.com/watch?v=co2b3RjMQeQ
