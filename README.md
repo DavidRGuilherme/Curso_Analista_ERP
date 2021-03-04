@@ -9,3 +9,7 @@ o Winrar para descompactar o instalador se encontra disponível aqui no meu repo
 do link acima.
 
 Link para visualizar como mudar   a BIOS  para  virtualização https://www.youtube.com/watch?v=co2b3RjMQeQ
+
+PIN da  Máquina Virtual - 031008 
+
+User e Senha ERP - FBS Enterprise Suite - administrador (usuario) / valor (senha)
