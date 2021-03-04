@@ -13,3 +13,5 @@ Link para visualizar como mudar   a BIOS  para  virtualização https://www.yout
 PIN da  Máquina Virtual - 031008 
 
 User e Senha ERP - FBS Enterprise Suite - administrador (usuario) / valor (senha)
+
+USUÁRIO E SENHA DO BANCO DE DADOS ORACLE (SQLDEVELOPER) - BECKER (usuario) /  FB$13271774! (senha) 
