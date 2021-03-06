@@ -15,3 +15,8 @@ PIN da  Máquina Virtual - 031008
 User e Senha ERP - FBS Enterprise Suite - administrador (usuario) / valor (senha)
 
 USUÁRIO E SENHA DO BANCO DE DADOS ORACLE (SQLDEVELOPER) - BECKER (usuario) /  FB$13271774! (senha) 
+
+Meu site : davidguilherme.com.br
+Instagram: david.guilhermee
+e-mail: contato@davidguilherme.com.br
+Whatts: (17) 99714-4841
