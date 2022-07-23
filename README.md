@@ -10,8 +10,17 @@ chave - STzfklOmDYlTrAXZ3GPzBUpvQhUauMjzIjYGC4J78_4
 
 ou 
 
-Instaladores dos programas que utilizaremos no curso - https://drive.google.com/file/d/19VqIECtBQq40XlwMBksbuHT6iodoRv4I/view?usp=sharing
-Máquina Virtual - Windows - Sistema ERP Enteprise Suite da FBS - https://drive.google.com/file/d/1CWG_kJZBYqVulBCGoxWhT8bBV2wgL2HH/view
+Instaladores dos programas que utilizaremos no curso -
+https://drive.google.com/file/d/19VqIECtBQq40XlwMBksbuHT6iodoRv4I/view?usp=sharing
+caso esse link acima não funcionar, tente o link abaixo - 
+https://drive.google.com/file/d/18wmZpkmFAZ5ag2MNBh8ANi4v9gnDGdzh/view?usp=sharing
+
+
+Máquina Virtual - Windows - Sistema ERP Enteprise Suite da FBS - 
+https://drive.google.com/file/d/1CWG_kJZBYqVulBCGoxWhT8bBV2wgL2HH/view
+caso esse link acima não funcionar, tente o link abaixo -  
+https://drive.google.com/file/d/1CWG_kJZBYqVulBCGoxWhT8bBV2wgL2HH/view?usp=sharing
+
 
 #----------------------------downloads-----------------------------------------------------------------#
 
